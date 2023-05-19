@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e408dfff.css",
+    "main.js": "/static/js/main.b978cdcc.js",
+    "static/js/787.0fb9b3d3.chunk.js": "/static/js/787.0fb9b3d3.chunk.js",
+    "static/media/googleplay-button.png": "/static/media/googleplay-button.9f0270e06c520448a690.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.e408dfff.css.map": "/static/css/main.e408dfff.css.map",
+    "main.b978cdcc.js.map": "/static/js/main.b978cdcc.js.map",
+    "787.0fb9b3d3.chunk.js.map": "/static/js/787.0fb9b3d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e408dfff.css",
+    "static/js/main.b978cdcc.js"
+  ]
+}
